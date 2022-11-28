@@ -100,7 +100,7 @@ fun HeroTopBar(){
         ) {
         Text(
             text = "Superheroes",
-            style = MaterialTheme.typography.h1,
+            style = MaterialTheme.typography.h3,
         )
     }
 }
